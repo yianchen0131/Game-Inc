@@ -1,0 +1,8 @@
+/build
+/.settings
+.classpath
+WebContent/META-INF
+WebContent/WEB-INF/lib
+.DS_Store
+.project
+Config.java
